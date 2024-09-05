@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\bin\Debug\net6.0\Diccionario1.exe
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\bin\Debug\net6.0\Diccionario1.deps.json
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\bin\Debug\net6.0\Diccionario1.runtimeconfig.json
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\bin\Debug\net6.0\Diccionario1.dll
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\bin\Debug\net6.0\Diccionario1.pdb
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.dll
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\refint\Diccionario1.dll
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.pdb
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\Diccionario1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Diccionario1\Diccionario1\obj\Debug\net6.0\ref\Diccionario1.dll
